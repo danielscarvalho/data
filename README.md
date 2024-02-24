@@ -1,5 +1,5 @@
 # data
-Some data for classes and training
+Some Synthetic data for data science classes and training
 
 Synthetic data
 
